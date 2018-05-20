@@ -1,0 +1,16 @@
+\\author Milan Melnykov milanmelnykov@gmail.com
+#include <stdio.h>
+
+int main (void){
+
+printf("Hello world!\n");
+
+printf("Git commit\n);//added a comment
+
+getchar();
+
+return 0;
+
+}
+
+//creating a conflict
